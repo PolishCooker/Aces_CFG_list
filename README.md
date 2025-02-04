@@ -5,7 +5,7 @@ This is my CFG list for interium.ooo. This list and the CFG's themselves get upd
 Currently there are: <br/>
 L Legit CFG <br/>
 L Semi CFG <br/>
-These are currently in the works:
+These are currently in the works: <br/>
 L Semi-Legit CFG <br/>
 
 By semi-legit I mean the CFG will be obvious to the eye. But, not obvious enough for an anti-cheat to catch you. <br/>

@@ -14,6 +14,8 @@ Misc <br/>
 L Unsafe features on <br/>
 L Bhop features on <br/>
 
-CHECK KEYBINDS ❤️
+CHECK KEYBINDS ❤️ <br/>
+
+LOCATION: C:\Users\PCNAME\AppData\Roaming\INTERIUM\CS2\configs
 
 ![Screenshot 2025-02-04 202142](https://github.com/user-attachments/assets/ecdca796-db27-4874-be84-4865ab46b5bb)

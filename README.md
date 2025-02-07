@@ -4,6 +4,7 @@ Welcome,
 This is my CFG list for interium.ooo. This list and the CFG's themselves get updated every single time there is a change <br/>
 Currently there are: <br/>
 L Legit CFG <br/>
+L 🆕 Legit CFG V2 🆕 <br/>
 L Semi CFG <br/>
 These are currently in the works: <br/>
 L Semi-Legit CFG <br/>
